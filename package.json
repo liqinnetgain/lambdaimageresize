@@ -1,5 +1,5 @@
 {
-  "name": "thumbnail",
+  "name": "lambdaimageresize",
   "version": "1.0.0",
   "description": "generate thumbnail of an image stored in S3",
   "main": "index.js",
